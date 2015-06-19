@@ -379,13 +379,17 @@ body {
 #hidden_subs-form {
   margin: 1em auto auto auto;
   font-family: Bitter;  
-  font-size: 1.2em;
-}
-
-#hidden_subs-form input {
+  font-size: 1em;
   font-weight: lighter;
 }
 
+#hidden_subs-form input[type=email]{
+  font-weight: lighter;
+}
+
+#hidden_subs-form input[type=submit] {
+  height: 2em;
+}
 
 #hidden_close a{
   color: #FFFFFF;
@@ -398,4 +402,5 @@ body {
   text-align: center;
   margin-top: 1em;
   font-family: PT Sans;
+  text-decoration: none;
 }
