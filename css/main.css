@@ -42,15 +42,15 @@ body {
 }
 
 .nav-alice li a:hover {
-  color: #173653;
-  background-color: #4489CA;	
+  color: #3A0748;
+  background-color: #9583B2;	
 }
 
 .navbar-alice {
   font-family: PT Sans;
 /*  min-height: 76px;*/
   min-height: 70px;
-  background-color: #4489CA;
+  background-color: #9583B2;
 }
 
 .navbar-toggle {
@@ -197,7 +197,7 @@ body {
   margin-bottom: 0.6em;
 }
 .block p a {
-  color: #143049;
+  color: #622074;
   text-decoration: none;
 }
 .block ul {
@@ -207,12 +207,12 @@ body {
   margin-bottom: 0.6em;
 }
 .block ul a {
-  color: #4489CA;
+  color: #9583B2;
   text-decoration: none;
 }
 
 .block-violet {
-  background: #1E476C;
+  background: #1B011A;
   padding: 4em 0;
   width: 100%;
   color: #fff;
@@ -230,7 +230,7 @@ body {
 }
 
 .block-turquoise {
-  background: #7AACDA;
+  background: #64AAA8;
   color: #fff;
   position: relative;
 }
@@ -265,7 +265,7 @@ body {
 
 .block-beige {
   background: #FFFCf4;
-  color: #2F6DA6;
+  color: #589290;
 }
 .logos {
 	width: 100%;
@@ -308,7 +308,7 @@ body {
   width: 100%;	
   text-align: center;
   font-family: PT Sans;
-  background: #4489CA;
+  background: #9583B2;
   color: #FFF;
   border-bottom: 1px rgba(255,255,255,0.5) solid;
 }
@@ -342,7 +342,7 @@ body {
 .email-btn {
   display: inline;
   float: right;
-  color: #4489CA;
+  color: #9583B2;
   background: #FFDF31;
   border: none;
   font-size: 1.2em;
