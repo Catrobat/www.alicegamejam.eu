@@ -43,14 +43,14 @@ body {
 
 .nav-alice li a:hover {
   color: #3A0748;
-  background-color: #9583B2;	
+  background-color: #3F79B6;	
 }
 
 .navbar-alice {
   font-family: PT Sans;
 /*  min-height: 76px;*/
   min-height: 70px;
-  background-color: #9583B2;
+  background-color: #3F79B6;
 }
 
 .navbar-toggle {
@@ -230,7 +230,7 @@ body {
 }
 
 .block-turquoise {
-  background: #64AAA8;
+  background: #1da6b8;
   color: #fff;
   position: relative;
 }
@@ -308,7 +308,7 @@ body {
   width: 100%;	
   text-align: center;
   font-family: PT Sans;
-  background: #9583B2;
+  background:  #3F79B6;
   color: #FFF;
   border-bottom: 1px rgba(255,255,255,0.5) solid;
 }
